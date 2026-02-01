@@ -1,8 +1,9 @@
-# Ignore solved exercise files
+# Ignore solved exercise files (case-insensitive)
 *_solved.*
+*_SOLVED.*
+*_Solved.*
 
-# Ignore exams folder
-exams/
+# Ignore group assignments
 group_assignment/
 
 # Python
